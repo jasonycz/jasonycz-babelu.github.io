@@ -23,5 +23,5 @@ tags:
 
 - 数学教学
 <video class="video" loop controls="" preload="preload" >
-    <source src="https://searchbox.bj.bcebos.com/file1_1548488553.mp4" type="video/mp4">
+    <source src="https://b.bdstatic.com/file1_1548488553.mp4" type="video/mp4">
 </video>
